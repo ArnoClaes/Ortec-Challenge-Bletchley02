@@ -1,0 +1,87 @@
+Amazon Web Services Invoice
+Email or talk to us about your AWS account or bill, visit aws.amazon.com/contact-us/
+Account number:
+
+<CUSTOMER_REFERENCE>
+Bill to Address:
+
+ATTN: <RECIPIENT_NAME>
+<RECIPIENT_STREET>
+<RECIPIENT_POST> <RECIPIENT_CITY>
+
+Invoice Summary
+Invoice Number:
+Invoice Date:
+
+<INVOICE_NR>
+<INVOICE_DATE>
+
+TOTAL AMOUNT DUE ON <DUE_DATE>
+
+<TOTAL>
+
+This invoice is for the billing period July 1 - July 31 , 2014
+Greetings from Amazon Web Services, we're writing to provide you with an electronic invoice for your use of AWS services. Additional information
+regarding your bill, individual service charge details, and your account history are available on the Account Activity Page.
+
+Total for this invoice
+
+<TOTAL>
+
+Detail
+<ITEM_1_NAME>
+
+Charges
+
+<ITEM_1_TOTAL>
+
+VAT **
+
+<ITEM_1_VAT>
+
+
+<ITEM_2_NAME>
+
+Charges
+
+<ITEM_2_TOTAL>
+
+VAT **
+
+<ITEM_2_VAT>
+
+
+<ITEM_3_NAME>
+
+Charges
+
+<ITEM_3_TOTAL>
+
+VAT **
+
+<ITEM_3_VAT>
+
+
+<ITEM_4_NAME>
+
+Charges
+
+<ITEM_4_TOTAL>
+
+VAT **
+
+<ITEM_4_VAT>
+
+* May include estimated US sales tax, VAT, GST and CT
+** This is not a VAT invoice
+*** Check the GST statement attached at the end of this Invoice
+for details
+† Usage and recurring charges for this statement period will be charged on
+your next billing date. The amount of your actual charges for this statement
+period may differ from the charges shown on this page. The charges
+shown on this page do not include any additional usage charges accrued
+during this statement period after the date you are viewing this page. Also,
+one-time fees and subscription charges are assessed separately, on the
+date that they occur.
+All charges and prices are in US Dollars
+
